@@ -1,1 +1,1 @@
-# html5-css3-standard-design-course
+[HTML5&CSS3標準デザイン講座](http://www.shoeisha.co.jp/book/detail/9784798142203)をやってます。
