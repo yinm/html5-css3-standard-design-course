@@ -49,6 +49,16 @@ dt {
 }
 
 /*毛皮・性別情報（共通）*/
-
+.cat-type {
+  font-size: 80%;
+  font-weight: normal;
+}
 
 /*性別による色分け*/
+.cat-type.male {
+  color: #2793a7;
+}
+
+.cat-type.female {
+  color: #df972f;
+}
