@@ -2,9 +2,7 @@
 
 /*ウィンドウ背景色の設定*/
 body{
-	background-color:#fbf9cc;
-	background-image: url(img/bg-stripe01.png);
-	background-repeat: repeat-x;
+  background: #fbf9cc url(img/bg-stripe01.png) repeat-x;
 }
 
 /*リンク色の設定*/
@@ -53,9 +51,7 @@ dt{
 .more{
 	text-align: right;
 	padding-right: 20px;
-	background-image: url(img/icon-arw01.png);
-	background-repeat: no-repeat;
-	background-position: right center;
+	background: url(img/icon-arw01.png) no-repeat right center;
 }
 
 /*毛皮・性別情報（共通）*/
@@ -77,7 +73,5 @@ dt{
 .frame {
 	margin: 20px 0;
 	padding: 35px 30px 30px 30px;
-	background-image: url(img/bg-stripe02.png);
-	background-repeat: repeat-x;
-	background-color: #fbf9cc;
+  background: #fbf9cc url(img/bg-stripe02.png) repeat-x;
 }
