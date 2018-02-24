@@ -11,6 +11,13 @@ body{
 }
 
 /*コンテンツ全体枠の設定*/
+#wrap {
+	width: 798px;
+	margin: 40px auto;
+	padding: 40px 80px;
+	border: #f6bb9e 1px solid;
+	background-color: #fff;
+}
 
 /*リンク色の設定*/
 a{
