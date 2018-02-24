@@ -50,6 +50,8 @@ h2{
 
 /*情報データ見出しの設定*/
 dt{
+	clear: left;
+	float: left;
 	font-weight:bold;
 }
 
@@ -69,6 +71,7 @@ dt{
 
 .data {
 	float: left;
+	width: 388px;
 }
 
 /*「もっと見る」リンクの設定*/
