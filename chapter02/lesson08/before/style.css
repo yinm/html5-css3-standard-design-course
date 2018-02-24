@@ -62,7 +62,14 @@ dt{
 }
 
 /*写真と特徴データの設定*/
+.ph {
+	float: left;
+	margin-right: 30px;
+}
 
+.data {
+	float: left;
+}
 
 /*「もっと見る」リンクの設定*/
 .more{
@@ -74,6 +81,7 @@ dt{
 	*/
 	background:url(img/icon-arw01.png) no-repeat right center;
 	padding-right:15px;
+	clear: left;
 }
 
 /*毛皮・性別情報（共通）*/
