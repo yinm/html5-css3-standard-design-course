@@ -115,3 +115,21 @@ dt{
 }
 
 /*表組の設定*/
+table.entryForm {
+	width: 100%;
+	border: #f6bb9e 2px solid;
+	border-collapse: collapse;
+}
+
+.entryForm th,
+.entryForm td {
+	padding: 5px 10px;
+	border: #f6bb9e 1px solid;
+}
+
+.entryForm th {
+	width: 10em;
+	background-color: #ffeeee;
+	text-align: left;
+	vertical-align: top;
+}
