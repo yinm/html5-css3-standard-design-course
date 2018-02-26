@@ -3,26 +3,26 @@
 
 /*base*/
 *{
-		margin:0;
-		padding:0;
+  margin:0;
+  padding:0;
 }
 
 #wrap{
-		width:500px;
-		padding:10px;
-		margin:30px auto;
-		border:#000 2px solid;
-		background-color:#ccc;
+  width:500px;
+  padding:10px;
+  margin:30px auto;
+  border:#000 2px solid;
+  background-color:#ccc;
 }
 
 p{
-	margin-bottom:10px;
-	background-color:#fff;
+ margin-bottom:10px;
+ background-color:#fff;
 }
 
 /*絶対配置コンテンツ*/
 #pos{
-	width:15px;
-	padding:10px;
-	background:#f00;
+ width:15px;
+ padding:10px;
+ background:#f00;
 }
