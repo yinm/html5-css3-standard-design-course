@@ -139,6 +139,21 @@ body{
  float: left;
 }
 
+#flink li {
+  display: inline;
+}
+
+#flink a {
+  padding: 0 10px;
+  background: url(../img/ico_arw01.png) left center no-repeat;
+  color: #666;
+  text-decoration: none;
+}
+
+#flink a:hover {
+  text-decoration: underline;
+}
+
 #copyright{
  float: right;
 }
@@ -167,6 +182,13 @@ body{
 ---------------------------*/
 #pankuzu{
  margin-bottom: 30px;
+  padding-bottom: 10px;
+  border-bottom: #ccc 1px dotted;
+}
+
+#pankuzu li {
+ display: inline;
+ font-size: 83%;
 }
 
 /* メインコンテンツ
