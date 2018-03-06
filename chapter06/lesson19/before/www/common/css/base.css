@@ -164,8 +164,37 @@ body{
  background: #00c4ab;
 }
 
+#gnav ul {
+  overflow: hidden;
+}
+
+#gnav li {
+  float: left;
+  width: 156px;
+  border-right: #fff 1px solid;
+}
+
+#gnav li:first-child {
+  width: 153px;
+  border-left: #fff 1px solid;
+}
+
 #gnav a{
- color: #fff;
+  display: block;
+  padding: 10px 0;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+#gnav a:hover {
+  background: #cce739;
+}
+
+#gnav a.selected {
+  background: #fff;
+  color: #00c4ab;
+  font-weight: bold;
 }
 
 /* コンテンツエリア
