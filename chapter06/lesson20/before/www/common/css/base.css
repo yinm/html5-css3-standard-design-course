@@ -207,6 +207,13 @@ body{
 #gnav .gnav05 a:hover { background-position: -627px -40px; }
 #gnav .gnav06 a:hover { background-position: -784px -40px; }
 
+.home #gnav .gnav01 a { background-position: 0 -80px; }
+.about #gnav .gnav02 a { background-position: -156px -80px; }
+.coding #gnav .gnav03 a { background-position: -313px -80px; }
+.lesson #gnav .gnav04 a { background-position: -470px -80px; }
+.faq #gnav .gnav05 a { background-position: -627px -80px; }
+.inquiry #gnav .ganv06 a { background-position: -784px -80px; }
+
 /* コンテンツエリア
 ---------------------------*/
 #contents{
